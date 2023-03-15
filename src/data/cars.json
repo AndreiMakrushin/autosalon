@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "price": 150,
+        "year": 1898,
+        "contact":{
+            "dealer": "234-567"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bentley",
+        "price": 1000,
+        "year": 1989,
+        "contact":{
+            "dealer": "2343-567"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": 5000,
+        "year": 2005,
+        "contact":{
+            "dealer": "2324-567"
+        }
+    },
+    {
+        "id": 4,
+        "name": "LR",
+        "price": 1500,
+        "year": 2000,
+        "contact":{
+            "dealer": "2344-567"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Nissan",
+        "price": 150000,
+        "year": 2023,
+        "contact":{
+            "dealer": "2634-567"
+        }
+    }
+]
